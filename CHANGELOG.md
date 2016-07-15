@@ -47,11 +47,11 @@ This change log adheres to standards from [Keep a CHANGELOG](http://keepachangel
 
 ## [1.8.5] - 2016-05-17
 ### Fixed
-- Changed `prefer-matches` rule's error message to suggest `_.isMatch` instead ([`7597075`][7597075])
-- Fixed `prefer-lodash-method` rule's `ignoreObjects` parameter to accept complex objects like `React.Children` ([`f02a1f4`][f02a1f4])
+- Changed `prefer-matches` rule's error message to suggest `_.isMatch` instead ([`f02a1f4`][f02a1f4])
+- Fixed `prefer-lodash-method` rule's `ignoreObjects` parameter to accept complex objects like `React.Children` ([`7597075`][7597075])
 
-[7597075]: https://github.com/wix/eslint-plugin-lodash/commit/75970752563bc793f8be5837805aff831eefae94
 [f02a1f4]: https://github.com/wix/eslint-plugin-lodash/commit/f02a1f49ebfa91ab1d7c3ee91e92eb6230af202b
+[7597075]: https://github.com/wix/eslint-plugin-lodash/commit/75970752563bc793f8be5837805aff831eefae94
 [1.8.5]: https://github.com/wix/eslint-plugin-lodash/compare/v1.8.5...v1.8.4
 
 ## [1.8.4] - 2016-05-05
